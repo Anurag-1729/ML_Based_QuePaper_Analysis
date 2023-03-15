@@ -1,0 +1,70 @@
+ 1 Seat No.: ________  Enrolment No.___________  
+ 
+X   
+                   BE - SEMESTER –VII(NEW)   EXAMINATION – SUMMER 2019  
+Subject Code: 2171004                                                                         Date: 16/05/2019    
+Subject Name: Wireless Communication    
+Time: 02:30 PM TO 05:00 PM                                                        Total Marks: 70   
+Instructions:   
+1. Attempt all questions.   
+2. Make suitable assumptions wherever necessary.   
+3. Figures to the right indicate full marks .  
+ 
+   MARKS 
+Q.1 (a) Define: (1) Control Channel  
+             (2) Mobile Switching Center  
+             (3) Full Duplex Systems  03 
+ (b) With figure explain Frequency Reuse concept in detail.  
+Define cluster size and write the equation for system  capacity.  
+ 
+ 
+ 04 
+ (c) Explain handoff scenario at cell boundary with figure.  07 
+    
+Q.2 (a) Describe co channel interference and adjacent channel interference.  03 
+ (b) Explain the concept of trunking and grade of service .  04 
+ (c) Explain sectoring to  improve coverage and capacity of a system.  07 
+  OR  
+ (c) Explain :(1) Cell splitting (2) Microcell Zone concept  
+To improve coverage and capacity of a system.  07 
+Q.3 (a) Explain three basic propagation mechanisms.  03 
+ (b) Explain the factors influencing small scale fading.  04 
+ (c) Explain ground reflection (Two -ray) Model with figure and derive the 
+equation for Electric Field E TOTAL.   07 
+  OR  
+Q.3 (a) Explain Doppler Shift with equation.  03 
+ (b) Explain small scale fading( based on time delay spread)  04 
+ (c) Explain Spread spectrum channel impulse response measurement system 
+with diagram.  07 
+Q.4 (a) Explain Frequency Division Multiple Access(FDMA) in wireless 
+communication with figure.  03 
+ (b) Explain small scale fading( based on Doppler spread)  04 
+ (c) Explain direct RF channel impulse response measurement system with 
+diagram.  07 
+  OR  
+Q.4 (a) If a total of 33 MHz of band width is allocated to a particular FDD cellular 
+telephone system which uses two 25 KHz simplex channels to provide full 
+duplex voice and control channels, compute the number of channel 
+available per cell if a system uses: (1) f our cell reuse (2) seven cell reuse 
+and (3) 12 cell reuse  03 
+ (b) Explain Time Division Multiple Access (TDMA) in wireless 
+communication with figure.  04 
+ (c) Draw GSM system architecture and explain its working principle in detail.  07 
+Q.5 (a) Calculate  the Brewster angle for a wave impinging on a ground having a 
+permittivity of ℇ r = 4  03  2  (b) Explain Code Division Multiple Access (CDMA) in wireless 
+communication with figure.  04 
+ (c) Consider a transmitter which radiates a sinusoidal carrier frequency of 
+1850 MHZ. For a vehicle moving 60 mile per hour, compute the received 
+carrier frequency if the mobile is moving (1) Directly toward the 
+transmitter  
+(2) directly away from the transmit ter and  
+(3) in a direction which is perpendicular to the direction of arrival of the 
+transmitted signal.  07 
+  OR  
+Q.5 (a) Explain: (1) static channel assignment strategy  
+              (2) dynamic channel assignment strategy  03 
+ (b) Write a short note on 3G W -CDMA(UMTS)  04 
+ (c) With diagram explain various 2.5 G and 3G upgrade paths for the major 
+2G technologies.  07 
+ 
+**********  

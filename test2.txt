@@ -1,0 +1,62 @@
+ 1
+ % %: %  % %%  
+ 
+%   
+                   % –VI % % – WINTER 2018  
+Subject Code: 2160%8                                                                Date: 30/11/2018    
+Subject Name: Web Technology    
+%                                                                 % %: %   
+%   
+%  
+%  
+%  
+ 
+ 
+   MARKS 
+Q.1 % Give full form of following acronym.  
+1)  HTTP 2) SOAP 3) DTD  03 
+ % Explain the points which should be considered for planning a website.  04 
+ % Write HTML code for creating following table.  
+ 
+January  Febuary  
+March  1 2 
+3 4 
+ 07 
+Q.2 % Explain Ordered  list with example.  03 
+ % Differentiate between  
+1) HTML vs XHTML  
+2) GET vs POST  04 
+ % Design Login Page HTML. Page must have fields in page Username, 
+Password, Remember Me and Login Button.  07 
+  OR  
+ % Design Registration page in HTML.  07 
+Q.3 % Explain Meta Tag.  03 
+ % Differentiate between “ID” and “Class” using suitable example.  04 
+ % List and Explain types of CSS with Example . 07 
+  OR  
+Q.3 % Draw and Explain Web Browser Architecture.  03 
+ % Explain pop%up boxes in JavaScript  with example.  04 
+ % Write Java Script to validate Mobile Number.  
+1) Entered value must be numeric  
+2) 10 digit length  07 
+Q.4 % Write the difference between Client Side Scripting and Server Side Scripting.  03 
+ % Explain any two types of events in Java Script with Example . 04 
+ % Write Java Script for find first 10 prime numbers .   07 
+  OR  
+Q.4 % Explain DTD (Document Type Definition).  03 
+ % Explain following XSL Elements with suitable example . 
+1) value%of 
+2) sort   04 
+ % Write Well formed  XML file to store student i nformation.  07 
+ 
+ 
+  2
+  
+Q.5 % Explain the Document Object Model with example.  03 
+ % Write a PHP program to find whether entered year is leap year or not.  04 
+ % Explain Session & Cookie in PHP with proper example.  07 
+  OR  
+Q.5 % Explain Browser detection PHP with Example.  03 
+ % How to write in PHP? Explain with example  04 
+ % Explain database connectivity in PHP with example.  07 
+ 
